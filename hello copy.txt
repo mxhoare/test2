@@ -2,3 +2,5 @@ This is another file
 No DLP failures here
 
 Add something to fail dip check xxx deleted dlp fail xxx
+
+hello DLP fail fraitdbox
