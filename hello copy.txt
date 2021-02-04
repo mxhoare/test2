@@ -1,3 +1,2 @@
-This is a test
-Pickup this text - fraitdbox
-More text
+This is another file
+No DLP failures here
